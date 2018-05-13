@@ -1,0 +1,9 @@
+kind: NetworkPolicy
+metadata:
+  name: deny-all
+  namespace: web
+spec:
+  podSelector:
+    matchLabels:
+      app: nginx
+  ingress: []
