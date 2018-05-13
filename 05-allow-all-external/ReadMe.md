@@ -1,0 +1,1 @@
+Herkes bu poda erişebilsin. Bunu kurumsal web siteniz gibi düşünebilirsiniz. İçeriden dışarıdan herkes erişebilsin.
