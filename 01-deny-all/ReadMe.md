@@ -1,0 +1,2 @@
+En iyi practicelerden biri tüm erişimlerinin kapatılmasıdır. Bunu en iyi Tigera'nın [Container Networking](https://www.slideshare.net/worldhopper/container-networking-state-of-the-ecosystem-containerconf-mannheim-nov-2016?qid=4b2a14ce-079d-45e0-8dba-08e32c169d7f&v=&b=&from_search=11) sunumundaki gibi anlayabiliriz. Sayfa 26'da aynı eski vlanlardaki gibi kendi içinde konuşsunlar ancak dış vlanlara erişim kısıtlı olsun mantığı vardır. Bu ilk deny-all da aynı namespace'deki hiç bir pod birbiriyle de konuşamayacaktır. 
+
